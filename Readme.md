@@ -5,9 +5,10 @@ This document provides documentation for the Playwright test suite, which is use
 
 ### Installation
 To run the Playwright tests, follow these steps:
-Install Node.js (version 14 or later) from nodejs.org.
-Clone the repository from GitHub: git clone https://github.com/vii-bochevarova/Buhler-tests.git.
-Navigate to the project directory: cd project-directory.
+
+1. Install Node.js (version 14 or later) from nodejs.org.
+2. Clone the repository from GitHub: git clone https://github.com/vii-bochevarova/Buhler-tests.git.
+3. Navigate to the project directory: cd project-directory.
 Install dependencies: npm install.
 
 ### Configuration
